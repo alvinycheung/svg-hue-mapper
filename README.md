@@ -27,7 +27,7 @@ The script is especially useful for updating color schemes in batch, for example
 1. Clone or download this repository to your local machine.
 2. Install the necessary Node.js dependencies by running the following command in your terminal:
    ```sh
-   npm install fs path node-html-parser
+   npm i
    ```
 
 ## Usage
