@@ -1,0 +1,16 @@
+{
+  "name": "svghuemapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "huemapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-html-parser": "^6.1.13",
+    "path": "^0.12.7"
+  }
+}
